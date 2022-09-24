@@ -10,7 +10,8 @@ body{
 }
 
 header{
-    background-color: #1c1c24;
+    background-color: white;
+    color: black;
     height: 70px; 
 }
 .header-container{
